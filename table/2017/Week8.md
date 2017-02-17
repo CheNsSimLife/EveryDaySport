@@ -17,8 +17,7 @@
  - [ ] References reading 
 
 *Exercise*  
- - [ ] Recovery run 45 mins;
- - [ ] Strength Training;
+ - [ ] Intervals run 45 mins;
 
 **Wednesday**  
 *Study*  
@@ -26,7 +25,7 @@
  - [ ] References reading 
 
 *Exercise*  
- - [ ] Recovery run 45 mins;
+ - [ ] Recovery run 30 mins;
  - [ ] Strength Training;
  
 **Thursday**  
@@ -35,8 +34,7 @@
  - [ ] References reading 
 
 *Exercise*  
- - [ ] Recovery run 45 mins;
- - [ ] Strength Training;
+ - [ ] Badminton;
  
 **Friday**   
 *Study*  
@@ -44,7 +42,7 @@
  - [ ] References reading 
 
 *Exercise*  
- - [ ] Recovery run 45 mins;
+ - [ ] Interbals run 40 mins;
  - [ ] Strength Training;
 
 **Saturday**  
@@ -52,7 +50,7 @@
  - [ ] Reading
  
 *Exercise*  
- - [ ] Recovery run 45 mins;
+ - [ ] Easy run 90 mins;
  - [ ] Strength Training;
  
 **Sunday**  
@@ -60,6 +58,5 @@
  - [ ] Reading
  
 *Exercise*  
- - [ ] Recovery run 45 mins;
- - [ ] Strength Training;
+ - [ ] Rest
  
